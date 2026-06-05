@@ -24,12 +24,15 @@ Curated list of fellowships, scholarships, and early-career programs relevant to
 
 Many opportunities are not widely advertised. The most competitive programs require planning 6-12 months in advance. The earlier you start looking, the more options you have.
 
-## Key principle
+## Live opportunities
 
-Many opportunities are not widely advertised. The most competitive programs require planning 6-12 months in advance. The earlier you start looking, the more options you have.
+Looking for something to apply for right now? → [`live/`](live/index.md)
+
+The `live/` folder tracks currently open, opening soon, and recurring annual opportunities with verified dates, links, and eligibility details.
 
 ## Files in this folder
 
+- [live/](live/index.md) — live opportunities: open now, opening soon, recurring annual
 - [fellowships-scholarships.md](fellowships-scholarships.md) — detailed breakdown of notable programs
 - [how-to-discover.md](how-to-discover.md) — a system for finding opportunities that fit you
 - [how-to-evaluate.md](how-to-evaluate.md) — a framework for deciding which opportunities are worth your time
