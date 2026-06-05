@@ -8,15 +8,23 @@ Practical notes on hackathons, competitions, innovation, exams, cities, networki
 
 New here? Pick your path:
 
-- **"I want to attend my first event but do not know where to start"** → [`roadmaps/first-opportunity-roadmap.md`](roadmaps/first-opportunity-roadmap.md)
+- **"I have never participated in anything"** → [`roadmaps/first-opportunity-roadmap.md`](roadmaps/first-opportunity-roadmap.md)
+- **"I want to do my first hackathon but cannot code / have no team"** → [`roadmaps/first-hackathon-roadmap.md`](roadmaps/first-hackathon-roadmap.md)
+- **"I have to travel to another city for an event (first time)"** → [`roadmaps/first-city-event-roadmap.md`](roadmaps/first-city-event-roadmap.md)
+- **"I am from a small town and feel out of place at city events"** → [`roadmaps/small-town-to-city-roadmap.md`](roadmaps/small-town-to-city-roadmap.md)
+- **"Networking feels awkward / I do not know how to talk to people"** → [`roadmaps/networking-roadmap.md`](roadmaps/networking-roadmap.md)
+- **"I lack confidence and want to build it practically"** → [`roadmaps/confidence-building-roadmap.md`](roadmaps/confidence-building-roadmap.md)
+- **"I want a 4-year plan for my college growth"** → [`roadmaps/student-growth-roadmap.md`](roadmaps/student-growth-roadmap.md)
+- **"How do I use GitHub as a portfolio / networking tool?"** → [`roadmaps/github-roadmap.md`](roadmaps/github-roadmap.md)
 - **"I have done online stuff, how do I go to real events?"** → [`roadmaps/from-online-to-offline-roadmap.md`](roadmaps/from-online-to-offline-roadmap.md)
+- **"How do I present my project well?"** → [`roadmaps/public-speaking-roadmap.md`](roadmaps/public-speaking-roadmap.md)
+- **"I want to learn AI"** → [`roadmaps/ai-learning-roadmap.md`](roadmaps/ai-learning-roadmap.md)
 - **"I have an event coming up, what should I expect?"** → [`field-notes/`](field-notes/index.md) (before, during, after)
 - **"I need to convince my parents"** → [`parents/`](parents/index.md)
 - **"What opportunities exist for Indian students?"** → [`opportunities/how-to-discover.md`](opportunities/how-to-discover.md)
 - **"How do I prepare for my first hackathon?"** → [`hackathons/first-hackathon-guide.md`](hackathons/first-hackathon-guide.md)
 - **"How do I plan travel for an event?"** → [`travel/`](travel/index.md) + [`cities/`](cities/index.md)
 - **"What skills should I build?"** → [`skills/`](skills/index.md)
-- **"How do I present my project well?"** → [`roadmaps/public-speaking-roadmap.md`](roadmaps/public-speaking-roadmap.md)
 
 ## Who this is for
 
@@ -43,7 +51,7 @@ New here? Pick your path:
 | Guides | Practical how-tos: first hackathon, convincing parents, funding travel |
 | AI | AI tools, prompting, learning paths, AI competitions, research, responsible use |
 | Career paths | Realistic career options: AI builder, web dev, design, startup, commerce+tech |
-| Roadmaps | Step-by-step action plans for hackathons, travel, networking, AI, public speaking |
+| Roadmaps | Execution-focused action plans: first opportunity, hackathon, city event, networking, confidence, GitHub, public speaking, AI, small-town-to-city, student growth |
 | Stories | Grounded narratives from real student experiences |
 | Field notes | Real observations from events — before, during, after, travel lessons |
 | Decision frameworks | Scoring systems, checklists, and filters to evaluate opportunities and make better decisions |
@@ -62,7 +70,7 @@ Browse the section that fits your audience. All sections cover the same topics w
 
 - **New to everything?** Use the quick start paths above.
 - **Browsing?** Each folder has an `index.md` that explains the topic and links to relevant files.
-- **Need step-by-step plans?** [`roadmaps/`](roadmaps/index.md) has actionable checklists.
+- **Need step-by-step execution plans?** [`roadmaps/`](roadmaps/index.md) has 11 action roadmaps for every starting point: first opportunity, first hackathon, first city event, networking, confidence, GitHub, public speaking, AI learning, online-to-offline, small-town-to-city, and 4-year student growth.
 - **Want real experiences?** [`field-notes/`](field-notes/index.md) shares grounded observations from actual events.
 - **Sharing with friends?** Use the [`hinglish/`](hinglish/index.md) section for natural Hinglish content.
 - **Sharing with parents?** Use the [`parents/`](parents/index.md) section (Hindi).
@@ -97,7 +105,7 @@ networking/       — how to network, communities, LinkedIn, mentors
 opportunities/    — fellowships, scholarships, discovery, evaluation
 parents/          — Hindi content written for parents
 resources/        — platforms, tools, websites, evaluation
-roadmaps/         — step-by-step action plans
+ roadmaps/         — execution roadmaps: first opportunity, hackathon, city event, networking, confidence, GitHub, public speaking, AI, small-town-to-city, student growth
 skills/           — learning pathways, skill notes, timelines
 stories/          — grounded narratives from student experiences
 travel/           — budget travel, packing, safety, logistics
