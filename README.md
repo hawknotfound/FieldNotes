@@ -46,6 +46,7 @@ New here? Pick your path:
 | Roadmaps | Step-by-step action plans for hackathons, travel, networking, AI, public speaking |
 | Stories | Grounded narratives from real student experiences |
 | Field notes | Real observations from events — before, during, after, travel lessons |
+| Decision frameworks | Scoring systems, checklists, and filters to evaluate opportunities and make better decisions |
 
 ## Language sections
 
@@ -67,7 +68,11 @@ Browse the section that fits your audience. All sections cover the same topics w
 - **Sharing with parents?** Use the [`parents/`](parents/index.md) section (Hindi).
 - **Planning an event trip?** Start with [`travel/`](travel/index.md) and [`cities/`](cities/index.md).
 - **Discovering opportunities?** Follow the system in [`opportunities/how-to-discover.md`](opportunities/how-to-discover.md).
-- **Evaluating an opportunity?** Use the framework in [`opportunities/how-to-evaluate.md`](opportunities/how-to-evaluate.md).
+- **Evaluating an opportunity?** Start with [`decision-frameworks/red-flags-and-green-flags.md`](decision-frameworks/red-flags-and-green-flags.md), then use the full scoring system in [`decision-frameworks/opportunity-evaluation-framework.md`](decision-frameworks/opportunity-evaluation-framework.md).
+- **Not sure if an opportunity is worth it?** Use the 5-question pre-filter in [`decision-frameworks/is-this-worth-applying-for.md`](decision-frameworks/is-this-worth-applying-for.md).
+- **Deciding whether to travel for an event?** Use [`decision-frameworks/travel-worthiness-checklist.md`](decision-frameworks/travel-worthiness-checklist.md).
+- **Need to discuss an event with parents?** Prepare with [`decision-frameworks/parent-discussion-checklist.md`](decision-frameworks/parent-discussion-checklist.md).
+- **About to register for an event?** Run through [`decision-frameworks/event-readiness-checklist.md`](decision-frameworks/event-readiness-checklist.md).
 - **Finding live and recurring opportunities?** Check [`hackathons/`](hackathons/index.md) and [`opportunities/`](opportunities/index.md).
 - **Reading stories for perspective?** See [`stories/`](stories/index.md).
 - **Maintainer notes?** See [`meta/`](meta/index.md).
@@ -76,8 +81,9 @@ Browse the section that fits your audience. All sections cover the same topics w
 
 ```
 README.md
-ai/               — AI tools, prompting, learning paths, research, responsible use
-career-paths/     — realistic career directions for Indian students
+ ai/               — AI tools, prompting, learning paths, research, responsible use
+ career-paths/     — realistic career directions for Indian students
+ decision-frameworks/ — scoring systems, checklists, and decision filters
 cities/           — student-focused city guides
 competitions/     — olympiads, coding contests, commerce competitions
 exams/            — olympiad pathways, scholarship exams, strategy
