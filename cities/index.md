@@ -33,6 +33,7 @@ When you attend a hackathon, competition, or conference in a new city, knowing t
 1. Check if the city has a dedicated guide below
 2. Read the guide for practical tips before booking travel
 3. Cross-reference with the [travel folder](../travel/index.md) for broader tips
+4. Read [field-notes/lessons-from-travel.md](../field-notes/lessons-from-travel.md) for real student travel experiences
 
 ---
 

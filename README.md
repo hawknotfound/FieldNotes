@@ -2,7 +2,21 @@
 
 A structured, research-driven knowledge base for students in India who want to go beyond the classroom.
 
-This is a public archive of practical notes on hackathons, competitions, innovation challenges, exams, cities, networking, travel, skills, and opportunities — all curated for the Indian student context.
+Practical notes on hackathons, competitions, innovation, exams, cities, networking, travel, skills, opportunities, and more — all curated for the Indian student context.
+
+## Quick start
+
+New here? Pick your path:
+
+- **"I want to attend my first event but do not know where to start"** → [`roadmaps/first-opportunity-roadmap.md`](roadmaps/first-opportunity-roadmap.md)
+- **"I have done online stuff, how do I go to real events?"** → [`roadmaps/from-online-to-offline-roadmap.md`](roadmaps/from-online-to-offline-roadmap.md)
+- **"I have an event coming up, what should I expect?"** → [`field-notes/`](field-notes/index.md) (before, during, after)
+- **"I need to convince my parents"** → [`parents/`](parents/index.md)
+- **"What opportunities exist for Indian students?"** → [`opportunities/how-to-discover.md`](opportunities/how-to-discover.md)
+- **"How do I prepare for my first hackathon?"** → [`hackathons/first-hackathon-guide.md`](hackathons/first-hackathon-guide.md)
+- **"How do I plan travel for an event?"** → [`travel/`](travel/index.md) + [`cities/`](cities/index.md)
+- **"What skills should I build?"** → [`skills/`](skills/index.md)
+- **"How do I present my project well?"** → [`roadmaps/public-speaking-roadmap.md`](roadmaps/public-speaking-roadmap.md)
 
 ## Who this is for
 
@@ -19,22 +33,21 @@ This is a public archive of practical notes on hackathons, competitions, innovat
 | Hackathons | Major Indian hackathons, how to prepare, what to expect |
 | Competitions | Olympiads, coding contests, commerce/business competitions |
 | Innovation | Startup competitions, government schemes, innovation challenges |
-| Exams | Olympiad pathways, scholarship exams, exam ecosystems |
+| Exams | Olympiad pathways, scholarship exams, preparation strategy |
 | Cities | Student-focused guides to major Indian cities for events |
 | Networking | How to network, Indian tech communities, online presence |
-| Travel | Budget travel tips, logistics for event participation |
-| Skills | Learning pathways, skill-building approaches |
-| Opportunities | Fellowships, scholarships, early career programs |
+| Travel | Budget travel tips, logistics, packing, safety |
+| Skills | Learning pathways, skill-building approaches, resource recommendations |
+| Opportunities | Fellowships, scholarships, discovery system, evaluation framework |
 | Resources | Curated platforms, websites, tools, communities |
 | Guides | Practical how-tos: first hackathon, convincing parents, funding travel |
-| AI | AI tools, prompting, learning paths, AI competitions for students |
+| AI | AI tools, prompting, learning paths, AI competitions, research, responsible use |
 | Career paths | Realistic career options: AI builder, web dev, design, startup, commerce+tech |
-| Roadmaps | Step-by-step action plans for hackathons, travel, networking, AI learning |
+| Roadmaps | Step-by-step action plans for hackathons, travel, networking, AI, public speaking |
 | Stories | Grounded narratives from real student experiences |
+| Field notes | Real observations from events — before, during, after, travel lessons |
 
 ## Language sections
-
-This repo has three language sections:
 
 | Section | Language | Audience | Folder |
 |---|---|---|---|
@@ -46,38 +59,42 @@ Browse the section that fits your audience. All sections cover the same topics w
 
 ## How to use this
 
-- Browse by folder. Each topic area has an index file that explains the landscape.
-- Read the guides if you are new to any of these areas.
-- Check the `opportunities/` and `hackathons/` folders for live and recurring opportunities.
-- Use the `cities/` and `travel/` folders when planning to attend an event in person.
-- Share `hinglish/` content with friends who prefer Hinglish.
-- Share `parents/` content with your family (written in Hindi).
-- Use `roadmaps/` for step-by-step action plans.
-- Read `stories/` to understand what the experience actually feels like.
-- Use `meta/` for notes about how this repository is maintained.
+- **New to everything?** Use the quick start paths above.
+- **Browsing?** Each folder has an `index.md` that explains the topic and links to relevant files.
+- **Need step-by-step plans?** [`roadmaps/`](roadmaps/index.md) has actionable checklists.
+- **Want real experiences?** [`field-notes/`](field-notes/index.md) shares grounded observations from actual events.
+- **Sharing with friends?** Use the [`hinglish/`](hinglish/index.md) section for natural Hinglish content.
+- **Sharing with parents?** Use the [`parents/`](parents/index.md) section (Hindi).
+- **Planning an event trip?** Start with [`travel/`](travel/index.md) and [`cities/`](cities/index.md).
+- **Discovering opportunities?** Follow the system in [`opportunities/how-to-discover.md`](opportunities/how-to-discover.md).
+- **Evaluating an opportunity?** Use the framework in [`opportunities/how-to-evaluate.md`](opportunities/how-to-evaluate.md).
+- **Finding live and recurring opportunities?** Check [`hackathons/`](hackathons/index.md) and [`opportunities/`](opportunities/index.md).
+- **Reading stories for perspective?** See [`stories/`](stories/index.md).
+- **Maintainer notes?** See [`meta/`](meta/index.md).
 
 ## How this is organized
 
 ```
 README.md
-ai/               — AI tools, prompting, learning paths, competitions
+ai/               — AI tools, prompting, learning paths, research, responsible use
 career-paths/     — realistic career directions for Indian students
-cities/           — student-focused city guides (English)
+cities/           — student-focused city guides
 competitions/     — olympiads, coding contests, commerce competitions
-exams/            — olympiad pathways, scholarship exams
+exams/            — olympiad pathways, scholarship exams, strategy
+field-notes/      — real observations from events and travel
 guides/           — practical how-to guides
 hackathons/       — SIH, major hackathons, first hackathon guide
 hinglish/         — same content in Hinglish for casual sharing
 innovation/       — startup comps, government innovation schemes
 meta/             — repository notes and maintenance
-networking/       — how to network, communities
-opportunities/    — fellowships, scholarships, programs
+networking/       — how to network, communities, LinkedIn, mentors
+opportunities/    — fellowships, scholarships, discovery, evaluation
 parents/          — Hindi content written for parents
-resources/        — platforms, tools, websites
+resources/        — platforms, tools, websites, evaluation
 roadmaps/         — step-by-step action plans
-skills/           — learning pathways, skill notes
+skills/           — learning pathways, skill notes, timelines
 stories/          — grounded narratives from student experiences
-travel/           — budget travel, event logistics
+travel/           — budget travel, packing, safety, logistics
 ```
 
 Every folder contains an `index.md` that explains the topic and links to the relevant files.
